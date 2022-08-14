@@ -2,7 +2,8 @@
 [![header](https://github.com/userlogout/userlogout/blob/main/assests/png.png)](https://repos.21-school.ru/chmackey)
 
 
-About me
+## About me
+## I'm a begginer C++ Software developer.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,7 +14,10 @@ About me
 - ⚡ Fun fact: ...
 -->
 
-Languages and Tools
+# Languages and Tools
+![Flutter](https://img.shields.io/badge/C++-090909??style=for-the-badge&logo=c++&=47C5FB)
+
+![JavaScript](https://img.shields.io/badge/js-090909??style=for-the-badge&logo=javascript)
 
 
 Links
