@@ -1,4 +1,3 @@
-
 [![header](https://github.com/userlogout/userlogout/blob/main/assests/png.png)](https://repos.21-school.ru/chmackey)
 
 
@@ -13,7 +12,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 
-![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
+<!-- ![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B) -->
 
 
 ## Links
