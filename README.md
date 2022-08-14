@@ -15,9 +15,11 @@
 -->
 
 # Languages and Tools
-![Flutter](https://img.shields.io/badge/C++-090909??style=for-the-badge&logo=c++&=47C5FB)
+![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 
-![JavaScript](https://img.shields.io/badge/js-090909??style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+
+![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
 
 
 Links
