@@ -5,7 +5,6 @@
 ## I'm a begginer C++ Software developer.
 - 🔭 I’m currently working on some intresting project
 - 🌱 I’m currently learning C++
-- 💻 I’m looking to collaborate with Yandex or Google
 
 # Languages and Tools
 ![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
