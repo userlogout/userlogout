@@ -2,7 +2,7 @@
 
 
 ## About me
-## I'm a begginer(junior) JavaScript Software developer at SC.
+## I'm a begginer (junior) JavaScript Software developer at SC.
 - 🔭 I’m currently working on some intresting project
 - 🌱 I’m currently learning C++
 
