@@ -8,7 +8,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 
-![TypeScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=TypeScript&logoColor=6296CC)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=6296CC)
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=6296CC)
 
