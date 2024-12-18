@@ -1,5 +1,5 @@
 ## About me
-## I'm a begginer (junior) JavaScript React developer.
+## I'm a JavaScript/TypeScript React developer.
 - 🔭 I’m currently working on some interesting project
 - 🌱 I’m currently learning C++
 
